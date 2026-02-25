@@ -3,9 +3,9 @@ package app
 import (
 	"database/sql"
 
-	"github.com/yourname/research-tracker/internal/db"
-	"github.com/yourname/research-tracker/internal/httpapi"
-	"github.com/yourname/research-tracker/internal/store"
+	"github.com/aserawayneasera/research-tracker/internal/db"
+	"github.com/aserawayneasera/research-tracker/internal/httpapi"
+	"github.com/aserawayneasera/research-tracker/internal/store"
 )
 
 type App struct {
