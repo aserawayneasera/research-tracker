@@ -1,4 +1,4 @@
-module github.com/yourname/research-tracker
+module github.com/aserawayneasera/research-tracker
 
 go 1.22
 
