@@ -1,0 +1,9 @@
+module github.com/yourname/research-tracker
+
+go 1.22
+
+require (
+	github.com/go-chi/chi/v5 v5.0.12
+	github.com/go-chi/cors v1.2.1
+	modernc.org/sqlite v1.33.1
+)
