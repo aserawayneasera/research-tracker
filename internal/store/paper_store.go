@@ -1,6 +1,6 @@
 package store
 
-import "github.com/yourname/research-tracker/internal/models"
+import "github.com/aserawayneasera/research-tracker/internal/models"
 
 type ListParams struct {
 	Status string
